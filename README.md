@@ -40,7 +40,7 @@
 	
 	Open a new terminal window.	To install the three libraries that MJPG-Streamer uses, execute the following 
 	command:
-		$ sudo apt-get install libjpeg8-dev imagemagick libv4l-dev
+		$ sudo apt-get install libjpeg62-turbo-dev imagemagick libv4l-dev
 
 <STEP 2> ADD MISSING VIDEODEV.H 
 
